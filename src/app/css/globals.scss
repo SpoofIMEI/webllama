@@ -1,0 +1,21 @@
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+
+html {
+    overflow: hidden;
+}
+
+p {
+    white-space: pre-wrap;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+b {
+    font-size: 15px;
+    white-space: pre-wrap;
+}
+
+a {
+    text-decoration: none;
+    color: var(--bs-body-color);
+}

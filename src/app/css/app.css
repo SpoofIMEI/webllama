@@ -1,0 +1,27 @@
+.aibox {
+  position: relative;
+  right: 10px;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column-reverse;
+  height: calc(100vh - 170px);
+  min-height: 200px;
+  width: 101%;
+  border-top: 1px solid var(--bs-body-color);
+  padding: 5px;
+  padding-left: 15px;
+  margin: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#messageinput {
+  font-size: 17px;
+  height: 50px;
+  min-height: 50px;
+  border-width: 2px;
+  resize: none;
+}
+#messageinput:focus {
+  height: 75px;
+}/*# sourceMappingURL=app.css.map */
