@@ -13,7 +13,7 @@
 1. Install ollama from https://ollama.com/
 2.
 ```
-git clone https://github.com/R00tendo/webllama
+git clone https://github.com/SpoofIMEI/webllama
 cd webllama/
 npm i
 npm run build
